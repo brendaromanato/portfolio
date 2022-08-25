@@ -1037,17 +1037,117 @@ a {
     left: -1rem;
   }
 }
-.cid-t13NwnLLV7 {
-  background-image: url("../../../assets/images/streetwestern-2000x1238.png");
+.cid-tfyEtO6oGA {
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: #fafafa;
 }
-.cid-t13NwnLLV7 .mbr-section-title {
-  color: #ffffff;
+.cid-tfyEtO6oGA .carousel {
+  width: 100%;
+}
+.cid-tfyEtO6oGA .carousel-inner {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+.cid-tfyEtO6oGA .carousel-item img {
+  height: 100vh;
+  object-fit: cover;
+}
+.cid-tfyEtO6oGA .carousel-caption {
+  bottom: 40px;
+}
+.cid-tfyEtO6oGA .mobi-mbri-arrow-next {
+  margin-left: 5px;
+}
+.cid-tfyEtO6oGA .mobi-mbri-arrow-prev {
+  margin-right: 5px;
+}
+.cid-tfyEtO6oGA .carousel-control:hover {
+  background: #1b1b1b;
+  color: #fff;
+  opacity: 1;
+}
+.cid-tfyEtO6oGA .item-wrapper {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-tfyEtO6oGA .container .carousel-control {
+    margin-bottom: 0;
+  }
+  .cid-tfyEtO6oGA .content-slider-wrap {
+    width: 100% !important;
+  }
+}
+.cid-tfyEtO6oGA .container .carousel-indicators {
+  margin-bottom: 3px;
+}
+.cid-tfyEtO6oGA .carousel-control {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+.cid-tfyEtO6oGA .carousel-control.carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tfyEtO6oGA .carousel-control.carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-tfyEtO6oGA .carousel-control {
+    top: auto;
+    bottom: 1rem;
+  }
+}
+.cid-tfyEtO6oGA .carousel-indicators {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 1.5rem !important;
+}
+.cid-tfyEtO6oGA .carousel-indicators li {
+  max-width: 15px;
+  height: 15px;
+  width: 15px;
+  max-height: 15px;
+  margin: 3px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  opacity: 0.5;
+  transition: all 0.3s;
+}
+.cid-tfyEtO6oGA .carousel-indicators li.active,
+.cid-tfyEtO6oGA .carousel-indicators li:hover {
+  opacity: 0.9;
+}
+.cid-tfyEtO6oGA .carousel-indicators li::after,
+.cid-tfyEtO6oGA .carousel-indicators li::before {
+  content: none;
+}
+.cid-tfyEtO6oGA .carousel-indicators.ie-fix {
+  left: 50%;
+  display: block;
+  width: 60%;
+  margin-left: -30%;
   text-align: center;
+}
+@media (max-width: 768px) {
+  .cid-tfyEtO6oGA .carousel-indicators {
+    display: none !important;
+  }
 }
 .cid-t1U4Bbk5Yw {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-color: #f9eebf;
+  background-color: #ffe161;
 }
 .cid-t1U4Bbk5Yw img,
 .cid-t1U4Bbk5Yw .item-img {
@@ -1228,7 +1328,7 @@ a {
   }
 }
 .cid-tdjvYKQ7gk {
-  background-image: url("../../../assets/images/unicron-filtro2-2000x1500.jpg");
+  background-color: #65c6d4;
 }
 .cid-tdjvYKQ7gk .mbr-fallback-image.disabled {
   display: none;
