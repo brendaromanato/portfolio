@@ -1,15 +1,11 @@
 .big-block{
-    height:100vh
+    height:100vh;
 }
 
 #home {
     background-color: #441945;
     display: flex;
     align-items:baseline;
-}
-
-#rainy {
-    background-color: #441945;
 }
 
 #portraits {
