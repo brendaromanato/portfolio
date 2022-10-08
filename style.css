@@ -8,6 +8,10 @@
     align-items:baseline;
 }
 
+#rainy {
+    background-color: #441945;
+}
+
 #portraits {
     background-color: #FFFFFF;
     display: flex;
@@ -40,6 +44,3 @@
 .font-5em{
     font-size:5em;
 }
-
-
-
