@@ -2,12 +2,6 @@
     height:100vh;
 }
 
-#home {
-    background-color: #441945;
-    display: flex;
-    align-items:baseline;
-}
-
 #portraits {
     background-color: #FFFFFF;
     display: flex;
@@ -23,7 +17,6 @@
 .p-bold{
     font-family: 'Karantina', cursive;
 }
-
 
 .legend {
     position: absolute;
