@@ -1,0 +1,11 @@
+{
+  "name": "br-portfolio",
+  "version": "1.0.0",
+  "description": "Brenda Romanato Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "open http://localhost:8080 && node server.js"
+  },
+  "author": "Brenda Romanato",
+  "license": "ISC"
+}
