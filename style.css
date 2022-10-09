@@ -34,7 +34,7 @@ html, body {
 
 .p-right-top{
    padding-left:15vw;
-   padding-top:5vh;
+   padding-top:7vh;
    font-size:7vw;
 }
 
@@ -57,9 +57,10 @@ html, body {
 
 .img-3{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    padding-top:8vh;
 }
 
 .m-img{
-    max-height: 80vh;
+    max-height: 70vh;
 }
