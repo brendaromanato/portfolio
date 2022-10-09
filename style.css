@@ -35,7 +35,10 @@ html, body {
 .p-right-top{
    padding-left:15vw;
    padding-top:7vh;
-   font-size:7vw;
+}
+
+.p-header{
+    font-size:7vw;
 }
 
 
