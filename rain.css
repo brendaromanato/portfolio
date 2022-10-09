@@ -9,22 +9,10 @@
     animation: rain .3s linear infinite;
 }
 
-.umbrella{
-    background-color: #441945;
-    z-index:4;
-    bottom: 100px;
-    border-radius: 40px;
-    position:absolute;
-    right: 52vw;
-    height: 45vh;
-    width: 23vh;
-}
-
-
 #umbrella{
     z-index:5;
     position: absolute;
-    bottom: 80px;
+    bottom: 250px;
     right: 50vw;
     height: 50vh;
 }

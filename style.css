@@ -2,6 +2,13 @@
     height:100vh;
 }
 
+#p-right-center{
+    color:#AA51B9;
+    padding-left:70px;
+    padding-top:500px;
+ 
+}
+
 #portraits {
     background-color: #FFFFFF;
     display: flex;
