@@ -18,19 +18,7 @@
     padding-right:10%; 
     padding-bottom:10%;
     align-self: flex-end;
-    /* opacity: 0; */
-    animation-name: appear;
-    animation-delay: 3s;
-    animation-duration: 4s;
 }
-
-@keyframes appear {
-    0%   {display:none; opacity:0;}
-    25%  {opacity:0.25}
-    50%  {opacity:0.5}
-    75%  {opacity:0.75}
-    100% {opacity:1}
-  }
 
 #rain1 {
     background-color: #441945;
