@@ -23,8 +23,5 @@ var makeItRain = function() {
     $('.rain.back-row').append(backDrops);
   }
   
-  $(window).scroll(function() {
-    console.log("scrolling");
-  });
   makeItRain();
   
