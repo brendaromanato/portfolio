@@ -1,19 +1,22 @@
 #home {
     background-color: #441945;
     display: flex;
-    /* align-items:baseline; */
+    flex-direction: column;
+    align-items:baseline;
+    justify-content:center;
 }
 
 .home-title{
+
     color:#AA51B9;
     font-size:10em;
-    /* padding-left:70px; */
-    /* padding-top:20px; */
+    padding-left:70px; 
+    padding-top:20px;
 }
 
 .home-subtitle{
     color:#AA51B9;
-    /* padding-left:70px; */
-    /* padding-bottom:70px; */
+    padding-right:70px; 
+    padding-bottom:70px;
     align-self: flex-end;
 }
