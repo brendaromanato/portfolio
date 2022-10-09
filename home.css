@@ -55,9 +55,10 @@
 .rain {
     position: absolute;
     left: 0;
-    width: 100vw;
+     width: 90%; 
     height: 100%;
     z-index: 2;
+ 
   }
   
   .rain.back-row {
@@ -65,7 +66,9 @@
     z-index: 1;
     bottom: 60px;
     opacity: 0.5;
+    width: 100%;
   }
+
   
     
   .drop {
@@ -75,7 +78,7 @@
     height: 120px;
     pointer-events: none;
     animation: drop 0.5s linear infinite;
-  }
+   }
 
    
   @keyframes drop {
@@ -148,7 +151,6 @@
     }
   }
   
-  .toggle.active {
+  /* .toggle.active {
     background-color: rgba(255, 255, 255, 0.4);
-  }
-  
+  } */

@@ -1,4 +1,4 @@
-@media (max-width: 1250px) {
+/* @media (max-width: 1250px) {
     #portraits {
         background-color: #FFFFFF;
         display: flex;
@@ -8,11 +8,13 @@
   }
 
   @media (min-width: 1250px) {
-    #portraits {
-        background-color: #FFFFFF;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
-  }
+   
+  } */
 
+
+  #portraits {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

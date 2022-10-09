@@ -5,8 +5,7 @@ html, body {
     padding: 0;
     min-width: 100%;
     background-color:aquamarine;
-
-  }
+ }
 
 #container{
     max-height: 100vh;
@@ -16,7 +15,7 @@ html, body {
 
 
 .big-block{
-    width: 100%;
+    width: 100%; /* DO NOT USE VW */
     height:100vh;
     scroll-snap-align: start;
 }
