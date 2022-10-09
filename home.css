@@ -1,4 +1,3 @@
-
 #home {
     background-color: #441945;
     display: flex;
@@ -57,7 +56,7 @@
 .rain {
     position: absolute;
     left: 0;
-    width: 100%;
+    width: 100vw;
     height: 100%;
     z-index: 2;
   }
