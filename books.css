@@ -1,0 +1,45 @@
+.book-cover{
+    width: 43vh;
+    height: 68.8vh;
+    background-color: rgb(252, 238, 230);
+    position: relative;
+    overflow: hidden;
+}
+
+/* .img-shadow{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+} */
+
+.book-cover:hover img{
+    display: none;
+ }
+
+ .book-cover img{
+    position: absolute;
+    z-index: 3;
+ }
+
+ .book-text{
+    font-family: 'Old Standard TT', serif;
+    padding-left: 7%;
+    overflow: hidden;
+    text-align: justify;
+    text-justify: inter-word;
+    width: 85%;
+    height: 80%;
+        word-wrap: break-word;
+        line-height: 1.5;
+ }
+
+
+ .book-header{
+    padding-left: 7%;
+    padding-top:3%;
+    font-weight: bold; 
+    margin-bottom: 50px; 
+    font-size: 2vh;
+ }
+  
+      
+
+ 

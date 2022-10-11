@@ -20,9 +20,17 @@ html, body {
     scroll-snap-align: start;
 }
 
-.p-right-center{
+.p-left-center{
     color:#AA51B9;
     padding-left:15vw;
+    padding-top:20vh;
+ 
+}
+
+
+.p-right-center{
+    color:#AA51B9;
+    padding-right:15vw;
     padding-top:20vh;
  
 }
@@ -32,7 +40,7 @@ html, body {
     font-size:1.5vw;
 }
 
-.p-right-top{
+.p-left-top{
    padding-left:15vw;
    padding-top:7vh;
 }
