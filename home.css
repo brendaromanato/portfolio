@@ -8,9 +8,16 @@
 
 .home-title{
     color:#AA51B9;
-    font-size:7vw;
+    font-size:10vw;
     padding-left:10%; 
     padding-top:5%;
+}
+
+@media (max-width: 1250px) { /* mobile */
+
+  .home-title{
+    font-size:30vw;
+  }
 }
 
 .home-subtitle{
@@ -33,10 +40,10 @@
 
 #umbrella{
     z-index:5;
-    position: absolute;
     bottom: 250px;
-    right: 50vw;
+    margin: auto;
     height: 50vh;
+    display: block;
 }
 
 

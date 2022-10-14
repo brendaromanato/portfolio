@@ -1,3 +1,7 @@
+#covers{
+    position: relative;
+}
+
 .book-cover{
     width: 43vh;
     height: 68.8vh;

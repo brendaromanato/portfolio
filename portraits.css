@@ -19,6 +19,15 @@
     justify-content: space-between;
 }
 
+@media (max-width: 1250px) { /* mobile*/
+
+  #portraits {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+}
+
 #covers,#social{
   background: rgb(116,194,146);
 background: linear-gradient(45deg, rgba(116,194,146,1) 0%, rgba(237,216,131,1) 100%);
