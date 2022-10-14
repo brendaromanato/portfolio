@@ -8,6 +8,8 @@
     background-color: rgb(252, 238, 230);
     position: relative;
     overflow: hidden;
+    max-width: 30vw;
+    max-height: 50vw;
 }
 
 /* .img-shadow{
@@ -19,8 +21,9 @@
  }
 
  .book-cover img{
-    position: absolute;
-    z-index: 3;
+    /* position: absolute;
+    z-index: 3; */
+    /* object-fit: contain; */
  }
 
  .book-text{
