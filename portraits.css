@@ -3,33 +3,20 @@
   position: relative;
 }
 
-/* @media (max-width: 1250px) {
-    #portraits {
-        background-color: #FFFFFF;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-    }
-  }
 
-  @media (min-width: 1250px) {
-   
-  } */
-
-
-  #portraits {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+#portraits {
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 @media (max-width: 1250px) { /* mobile*/
 
-  #portraits {
-    display: flex;
-    flex-direction: column-reverse;
-}
+    #portraits {
+      display: flex;
+      flex-direction: column;
+  }
 
 }
 

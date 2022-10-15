@@ -26,7 +26,7 @@ p {
 
 .col-block{
     width: 100%; /* DO NOT USE VW */
-    /* scroll-snap-align: start; */
+    scroll-snap-align: start;
 }
 
 
@@ -80,6 +80,15 @@ p {
 .left-img{
     height: 100vh;
     max-width: 50vw;
+}
+
+@media (max-width: 1250px) { /* mobile*/
+
+    .left-img {
+      margin: auto;
+      width: 100%;
+  }
+
 }
 
 .legend {
