@@ -39,14 +39,12 @@ p {
     padding-top:20vh;
  
 }
-
-
-.p-right-center{
+.p-left-center{
     color:#AA51B9;
     padding-right:15vw;
     padding-top:20vh;
- 
 }
+
 
 .p-hand{
     font-family: 'Indie Flower', cursive;
@@ -54,6 +52,7 @@ p {
 }
 
 .p-left-top{
+   padding-top: 15vw;
    padding-left:15vw;
 }
 
@@ -77,10 +76,10 @@ p {
     font-family: 'Karantina', cursive;
 }
 
-.left-img{
+/* .left-img{
     height: 100vh;
     max-width: 50vw;
-}
+} */
 
 @media (max-width: 1250px) { /* mobile*/
 
@@ -92,9 +91,10 @@ p {
 }
 
 .legend {
+    font-family: 'Old Standard TT', serif;
     position: absolute;
-    bottom: 20px;
-    left: 20px;
+    bottom: 5%;
+    right: 8%;
     color: white;
 }
 
