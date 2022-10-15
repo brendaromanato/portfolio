@@ -6,7 +6,7 @@
     background-color: rgb(252, 238, 230);
     position: relative;
     overflow: hidden;
-    /* padding-bottom: 25px; */
+    margin-bottom: 30px;
 }
 
 @media (max-width: 1250px) { /* mobile*/
@@ -16,7 +16,9 @@
         background-color: rgb(252, 238, 230);
         position: relative;
         /* overflow: hidden; */
-        margin: auto;
+        margin-bottom: 30px;
+        margin-right: auto;
+        margin-left: auto;
         /* max-width: 30vw;
         max-height: 50vw; */
     }
