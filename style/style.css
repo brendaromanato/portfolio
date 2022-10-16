@@ -30,10 +30,6 @@ p {
     scroll-snap-align: start;
 }
 
-
-
-
-
 .p-left-center{
     color:#AA51B9;
     padding-left:15vw;
@@ -45,7 +41,6 @@ p {
     padding-right:15vw;
     padding-top:20vh;
 }
-
 
 .p-hand{
     font-family: 'Annie Use Your Telescope', cursive;
@@ -76,11 +71,6 @@ p {
     padding-top: 6 bvh;
     font-family: 'Karantina', cursive;
 }
-
-/* .left-img{
-    height: 100vh;
-    max-width: 50vw;
-} */
 
 @media (max-width: 1250px) { /* mobile*/
 
