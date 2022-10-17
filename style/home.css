@@ -147,6 +147,18 @@
     }
   }
   
-  /* .toggle.active {
-    background-color: rgba(255, 255, 255, 0.4);
-  } */
+  #places{
+    background-color: #FFFFFF;
+    position: relative;
+  }
+  
+  
+  #portraits {
+    background-color: #FFFFFF;
+    justify-content: space-between;
+  }
+  
+  #covers,#social{
+    background: rgb(116,194,146);
+    background: linear-gradient(45deg, rgba(116,194,146,1) 0%, rgba(237,216,131,1) 100%);
+  }
